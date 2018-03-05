@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=B1-1
+Added Pin To Net: NetName=NetC1_2 Pin=LD1-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD2-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD3-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD4-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD5-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD6-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD7-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD8-3
+Added Pin To Net: NetName=NetC1_2 Pin=LD9-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Change Net Name : Old Net Name=GND New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=GND
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD1 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD2 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD3 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD4 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD5 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD6 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD7 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD8 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD9 White

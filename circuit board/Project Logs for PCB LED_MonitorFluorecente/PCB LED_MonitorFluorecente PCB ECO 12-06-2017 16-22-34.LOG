@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=THERMO Pin=LD1-3
+Added Pin To Net: NetName=THERMO Pin=LD2-3
+Added Pin To Net: NetName=THERMO Pin=LD3-3
+Added Pin To Net: NetName=THERMO Pin=LD4-3
+Added Pin To Net: NetName=THERMO Pin=LD5-3
+Added Pin To Net: NetName=THERMO Pin=LD6-3
+Added Pin To Net: NetName=THERMO Pin=LD7-3
+Added Pin To Net: NetName=THERMO Pin=LD8-3
+Added Pin To Net: NetName=THERMO Pin=LD9-3
+Added Net: Name=THERMO

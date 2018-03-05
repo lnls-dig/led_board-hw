@@ -1,0 +1,268 @@
+*************************************************************
+FileName = PCB LED_MonitorFluorecente.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\matrix\matrix
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\profile
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_8\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_8\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_14\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_14\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect45.2756x70.8661_260\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect41.3386x55.1181_40\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.5118x45.2756_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect4.7244x45.2756_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect83.4646x82.6772_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect36.2205x82.6772_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect33.8582x78.7402_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect5.1181x41.3386_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect32.2835x78.7402_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect53.2756x78.8661_260\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_240\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect49.3386x63.1181_40\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_120\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_150\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_300\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_330\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_30\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_60\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect13.5118x53.2756_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect12.7244x53.2756_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect91.4646x90.6772_210\features
+
+Generated File : C:\Users\lais.souza\Desktop\PROJETOS\Placa leds\PCB LED_MonitorFluorecente\Project Outputs for PCB LED_MonitorFluorecente\odb\symbols\rect44.2205x90.6772_210\features
+

@@ -1,0 +1,75 @@
+Added Component: Designator=LD10(LED_OSRAM_GW_JTLPS1.EM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "LNLS DIG LOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD White LED, 2-Leads, Body 3.5x2.8mm, GW JTLPS1.EM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "High Power LEDs - White White 4000K CRI 80 DURIS E 2835"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=LD11(LED_OSRAM_GW_JTLPS1.EM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "LNLS DIG LOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD White LED, 2-Leads, Body 3.5x2.8mm, GW JTLPS1.EM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "High Power LEDs - White White 4000K CRI 80 DURIS E 2835"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=LD12(LED_OSRAM_GW_JTLPS1.EM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "LNLS DIG LOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "26/02/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD White LED, 2-Leads, Body 3.5x2.8mm, GW JTLPS1.EM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "High Power LEDs - White White 4000K CRI 80 DURIS E 2835"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GW JTLPS1.EM-KKKM-XX55-1-150-R33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LD10-1
+Added Pin To Net: NetName=GND Pin=LD10-1
+Added Pin To Net: NetName=NetC1_1 Pin=LD10-2
+Added Pin To Net: NetName=NetC1_1 Pin=LD10-2
+Added Pin To Net: NetName=GND Pin=LD11-1
+Added Pin To Net: NetName=GND Pin=LD11-1
+Added Pin To Net: NetName=NetC1_1 Pin=LD11-2
+Added Pin To Net: NetName=NetC1_1 Pin=LD11-2
+Added Pin To Net: NetName=GND Pin=LD12-1
+Added Pin To Net: NetName=GND Pin=LD12-1
+Added Pin To Net: NetName=NetC1_1 Pin=LD12-2
+Added Pin To Net: NetName=NetC1_1 Pin=LD12-2
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD10 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD11 White
+Added Member To Class: ClassName=PCB LED_MonitorFluorecente Member=Component LD12 White

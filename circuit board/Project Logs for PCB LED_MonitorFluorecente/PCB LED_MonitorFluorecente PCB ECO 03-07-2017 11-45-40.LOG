@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=LD1-3
+Removed Pin From Net: NetName=GND Pin=LD2-3
+Removed Pin From Net: NetName=GND Pin=LD3-3
+Removed Pin From Net: NetName=GND Pin=LD4-3
+Removed Pin From Net: NetName=GND Pin=LD5-3
+Removed Pin From Net: NetName=GND Pin=LD6-3
+Removed Pin From Net: NetName=GND Pin=LD7-3
+Removed Pin From Net: NetName=GND Pin=LD8-3
+Removed Pin From Net: NetName=GND Pin=LD9-3
+Added Pin To Net: NetName=5VCC Pin=LD1-3
+Added Pin To Net: NetName=5VCC Pin=LD2-3
+Added Pin To Net: NetName=5VCC Pin=LD3-3
+Added Pin To Net: NetName=5VCC Pin=LD4-3
+Added Pin To Net: NetName=5VCC Pin=LD5-3
+Added Pin To Net: NetName=5VCC Pin=LD6-3
+Added Pin To Net: NetName=5VCC Pin=LD7-3
+Added Pin To Net: NetName=5VCC Pin=LD8-3
+Added Pin To Net: NetName=5VCC Pin=LD9-3
+Added Room: Name=PCB LED_MonitorFluorecente
